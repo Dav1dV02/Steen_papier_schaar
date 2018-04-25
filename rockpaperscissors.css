@@ -1,0 +1,38 @@
+body{
+    margin: 0 auto;
+}
+
+.pos{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.result{
+    margin-top: 10%;
+    width: 100%;
+    text-align: center;
+
+    font-size: 200%;
+}
+
+button{
+    width: 250px;
+    height: 280px;
+    font-size: 120%;
+    border-radius: 10%;
+    border: none;
+    font-family: sans-serif;
+    margin: 5px;
+    background-color: transparent;
+}
+img{
+    width: 220px;
+    height: 220px;
+}
+
+.score{
+    font-size: 30px;
+}
+.score2{
+    font-size: 30px;
+}
